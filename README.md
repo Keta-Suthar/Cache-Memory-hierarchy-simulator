@@ -17,7 +17,7 @@ A C++ simulator for a two-level cache memory hierarchy (L1 and L2). The simulato
   - Reads, writes, misses, writebacks, memory traffic
 
 <p align="center">
-<img width="750" height="500" alt="image" src="https://github.com/user-attachments/assets/8359e17b-b758-41e2-9edd-fb5afbf1f8a5" />
+<img width="750" height="500" src="./images/cache_memory_diagram.png" />
 </p>
 
 ### Main Steps:
